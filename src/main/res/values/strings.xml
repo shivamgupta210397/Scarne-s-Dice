@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarnes Dice</string>
+    <string name="your_score">Your Score: 0</string>
+    <string name="computer_score">Computer Score: 0</string>
+    <string name="roll">ROLL</string>
+    <string name="hold">HOLD</string>
+    <string name="reset">RESET</string>
+</resources>
